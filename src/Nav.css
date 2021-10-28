@@ -4,8 +4,8 @@
   width: 100%;
   display: flex;
   justify-content: space-between;
-  padding: 20px;
-  height: 30px;
+  padding: 21px;
+  height: 31px;
   z-index: 1;
   transition-timing-function: ease-in;
   transition: all 0.5s;
